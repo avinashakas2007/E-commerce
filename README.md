@@ -31,7 +31,7 @@ Welcome to **Sneaker Company**! The **Fall Limited Edition Sneakers** are here, 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/sneaker-ecommerce.git
+    git clone https://github.com/avinashakas2007/E-commerce.git
     ```
 
 2. **Open `index.html`** in any modern browser to start exploring the site!
